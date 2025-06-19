@@ -1,0 +1,48 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.inlineSuggest.enabled": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorCustomizations": {
+    "[SynthWave '84]": {
+      "tab.activeBorder": "#ff0000"
+    }
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "git.confirmSync": false,
+  "editor.minimap.enabled": false,
+  "git.ignoreRebaseWarning": true,
+  "jest.runMode": {
+    "type": "on-save",
+    "testFileOnly": true,
+    "coverage": true
+  },
+  "editor.formatOnPaste": true,
+  "workbench.colorTheme": "SynthWave '84",
+  "python.createEnvironment.trigger": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.tabWidth": 2,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "chat.commandCenter.enabled": false,
+  "svelte.enable-ts-plugin": true,
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "svelte": "html",
+    "css": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on",
+    "other": "on"
+  },
+  "settingsSync.ignoredExtensions": [],
+  "settingsSync.ignoredSettings": [],
+  "settingsSync.keybindingsPerPlatform": false
+}
